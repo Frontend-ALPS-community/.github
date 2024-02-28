@@ -13,7 +13,7 @@
   <tr>
     <td>
       <a href="https://github.com/YoungSeungJang">
-        <img src="https://avatars.githubusercontent.com/u/123865139?v=4" width="120px" height="120px"/>
+        <img src="[https://avatars.githubusercontent.com/u/123865139?v=4](https://avatars.githubusercontent.com/u/50819030?v=4)" width="120px" height="120px"/>
       </a>
     </td>
     <td>
