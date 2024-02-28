@@ -13,8 +13,7 @@
   <tr>
     <td>
       <a href="https://github.com/YoungSeungJang">
-        <img src="https://github.com/Frontend-ALPS-community/.github/assets/50819030/6e27e4c4-feb1-4da4-8405-69052b457d1c
-" width="120px" height="120px"/>
+        <img src="![image](https://github.com/Frontend-ALPS-community/.github/assets/50819030/6e06bc2c-5870-4ee7-89d5-d786f5695661)" width="120px" height="120px"/>
       </a>
     </td>
     <td>
