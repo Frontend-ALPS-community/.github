@@ -1,12 +1,39 @@
-## Hi there 👋
 
-<!--
+## ALPS (알프스)
 
-**Here are some ideas to get you started:**
+알프스는 ... (설명)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<이미지 넣기>
+
+## MEMBER
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/YoungSeungJang">
+        <img src="https://avatars.githubusercontent.com/u/123865139?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JaeHoonKOR">
+        <img src="https://avatars.githubusercontent.com/u/123868471?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/nasilKiM">
+        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      장영승 🛠
+    </th>
+    <th>
+      이재훈 👾
+    </th>
+    <th>
+      김나실 🐈‍⬛
+    </th>
+  </tr>
+</table>
+
