@@ -18,7 +18,7 @@
     </td>
     <td>
       <a href="https://github.com/JaeHoonKOR">
-        <img src="https://avatars.githubusercontent.com/u/123868471?v=4" width="120px" height="120px"/>
+        <img src="https://github.com/Frontend-ALPS-community/.github/assets/117559842/e1f0d23a-ae45-4e77-a846-20eaad2fbf48" width="120px" height="120px"/>
       </a>  
     </td>
     <td>
@@ -39,3 +39,4 @@
     </th>
   </tr>
 </table>
+
