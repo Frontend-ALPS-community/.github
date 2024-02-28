@@ -20,7 +20,7 @@
     </td>
     <td>
       <a href="https://github.com/nasilKiM">
-        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
+        <img src="https://github.com/Frontend-ALPS-community/.github/assets/117559842/e07e8b17-d51f-4e43-a9fe-dba8d80cf199" width="120px" height="120px"/>
       </a>
     </td>
   </tr>
@@ -36,4 +36,3 @@
     </th>
   </tr>
 </table>
-
